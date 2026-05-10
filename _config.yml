@@ -1,0 +1,11 @@
+title: Steady
+description: Sleep tracking and recovery for shift workers, by JC Mobile App Studio LLC.
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - _pages
+permalink: /:path/
